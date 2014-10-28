@@ -1,0 +1,62 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.background{
+	background: url('/images/DTLA.jpg')  50% 0 no-repeat fixed; 
+	height: 600px;
+	background-size: 100%;
+}
+
+.contentDiv{
+	/*height: 600px;*/
+	font-size: 16px;
+}
+
+.contentDiv>p{
+	margin-top: 40px;
+	font-family: 'News Cycle', sans-serif;
+}
+
+.contentDiv>h1{
+	text-align: center;
+	font-family: 'News Cycle', sans-serif;
+}
+
+h1{
+	font-family: 'News Cycle', sans-serif;
+}
+
+.navbar-brand.TCbrand{
+	padding-left: 42px;
+}
+
+.backgroundUL{
+	font-family: 'News Cycle', sans-serif;
+}
+
+.container{
+	font-size: 16px;
+	font-family: 'News Cycle', sans-serif;
+	height: 600px;
+}
+
+.backgroundDiv{
+	padding-top: 20px;
+}
+
+.quote{
+	padding-top: 20px;
+	font-style: italic;
+	/*font-weight: bold;*/
+	font-family: 'Fjalla One', sans-serif;
+}
+
+
+
+
+
+
+
+
+
