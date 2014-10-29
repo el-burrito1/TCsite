@@ -48,12 +48,48 @@ h1{
 .quote{
 	padding-top: 20px;
 	font-style: italic;
-	/*font-weight: bold;*/
 	font-family: 'Fjalla One', sans-serif;
 }
 
+.SMbackground{
+	background: url('/images/beachPierPanorama.jpg')  50% 0 no-repeat fixed; 
+	height: 600px;
+	background-size: 100%;
+}
 
+.roomDisplay{
+	padding-top: 75px;
+}
 
+.thumbnail{
+	max-height: 180px;
+	max-width: 180px;
+}
+
+.container.roomDisplay{
+	/*margin-left: 110px;*/
+}
+
+.sqft{
+	padding-left: 15px;
+}
+
+.officeDescription{
+	padding-left: 45px;
+}
+
+.officeDescription>p{
+	margin: 0;
+}
+
+.tourOffice{
+	background-color: #98C94B !important;
+	width: 315px;
+}
+
+.tour{
+	color: white;
+}
 
 
 
